@@ -6,5 +6,7 @@ public class Main {
 
         for(int j =0 ; j < 20 ; j++)
             System.out.println("*");
+
+        System.out.println("Second Commit");
     }
 }
